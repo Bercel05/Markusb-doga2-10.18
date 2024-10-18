@@ -1,0 +1,7 @@
+C:\Users\markusb\Gitwork\MarkusBdoga2 10.18\bin\Debug\MarkusBdoga2 10.18.exe.config
+C:\Users\markusb\Gitwork\MarkusBdoga2 10.18\bin\Debug\MarkusBdoga2 10.18.exe
+C:\Users\markusb\Gitwork\MarkusBdoga2 10.18\bin\Debug\MarkusBdoga2 10.18.pdb
+C:\Users\markusb\Gitwork\MarkusBdoga2 10.18\obj\Debug\MarkusBdoga2 10.18.csproj.AssemblyReference.cache
+C:\Users\markusb\Gitwork\MarkusBdoga2 10.18\obj\Debug\MarkusBdoga2 10.18.csproj.CoreCompileInputs.cache
+C:\Users\markusb\Gitwork\MarkusBdoga2 10.18\obj\Debug\MarkusBdoga2 10.18.exe
+C:\Users\markusb\Gitwork\MarkusBdoga2 10.18\obj\Debug\MarkusBdoga2 10.18.pdb

@@ -1,15 +1,27 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace MarkusBdoga2_10._18
+class Program
 {
-    internal class Program
+    static void Main()
     {
-        static void Main(string[] args)
+        string jelszo;
+
+        while (true)
         {
+            Console.Write("Kérem, adja meg a jelszót: ");
+            jelszo = Console.ReadLine();
+
+            if (jelszo.Length >= 8 &&
+                jelszo.IndexOfAny("0123456789".ToCharArray()) >= 0 &&
+                jelszo.IndexOfAny("ABCDEFGHIJKLMNOPQRSTUVWXYZ".ToCharArray()) >= 0)
+            {
+                Console.WriteLine("Jelszó elfogadva!");
+                break; 
+            }
+            else
+            {
+                Console.WriteLine("A jelszó nem felel meg a kritériumoknak. Kérjük, próbálkozzon újra.");
+            }
         }
     }
 }
